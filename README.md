@@ -8,7 +8,7 @@ concerned.
 
 But there are also many people like me who want to save the clicks and have the whole thing done by a small program.
 
-Thanks to "chacalz" for your Sources.
+Thanks to "Chacal_Z" for your Sources.
 
 
 
